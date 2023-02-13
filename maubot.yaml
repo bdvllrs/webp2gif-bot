@@ -3,5 +3,8 @@ id: fr.bdevillers.webptogif
 version: 1.0.0
 license: MIT
 modules:
-- webptogif
+  - webptogif
+dependencies:
+  - python-magic
+  - Pillow
 main_class: WebPToGifBot
