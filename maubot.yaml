@@ -1,0 +1,7 @@
+maubot: 0.4.0
+id: fr.bdevillers.webptogif
+version: 1.0.0
+license: MIT
+modules:
+- webptogif
+main_class: WebPToGifBot
